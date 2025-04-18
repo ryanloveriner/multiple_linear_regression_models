@@ -6,7 +6,9 @@ Multiple linear regression modeling is a statistical technique used in regressio
 
 ### Data
 
-The [data for the project](https://github.com/ryanloveriner/multiple_linear_regression_models/blob/main/ADA%20Simple%20Multiple%20Linear%20Regression%20Data.csv)
+The [data used in the project](https://github.com/ryanloveriner/multiple_linear_regression_models/blob/main/ADA%20Simple%20Multiple%20Linear%20Regression%20Data.csv) is a .csv file and was provided by the course instructor.
+
+### Method
 
 First, correlations between the individual predictive variables and the response variable are examined for correlation using 
 
