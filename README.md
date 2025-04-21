@@ -10,5 +10,5 @@ The [data used in the project](https://github.com/ryanloveriner/multiple_linear_
 
 ### Method
 
-First, correlations between the individual predictive variables and the response variable are examined for correlation using 
+First, the individual predictive variables and the response variable are examined for correlation using a scatterplot matrix. The model fit is then assessed to ensure assumptions are met and partial regression residual plots are used to ensure linearity is supported. Finally, model coefficients are calculated and assessed. The R code for these techniques is available [here](https://github.com/ryanloveriner/multiple_linear_regression_models/blob/main/ADA%20Simple%20Multiple%20Linear%20Regression.qmd). Please note that this is a Quarto markdown file--similar to an Rmarkdown, but you'll need to have quarto installed in order to knit it.
 
